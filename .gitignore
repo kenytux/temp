@@ -1,0 +1,106 @@
+
+aio/content/examples/.DS_Store
+/.angular
+baseline.json
+/bazel-out
+.bazelrc.user
+# build-analytics
+.build-analytics
+.c9
+.c9/
+# CircleCI temporary file for cache key computation.
+.classpath
+# compiled output
+# Compiled output
+/connect.lock
+# Cordova
+/coverage
+/coverage/*
+# dependencies
+# Dependencies
+.devcontainer/*
+!.devcontainer/README.md
+!.devcontainer/recommended-devcontainer.json
+!.devcontainer/recommended-Dockerfile
+/dist
+/dist/
+/dist-electron
+/dist-packages
+# Don't check in secret files
+.DS_Store
+.DS_STORE
+# e2e
+/e2e/*.js
+/e2e/*.map
+# Electron
+/electron.main.js
+.history
+.husky/_
+# Husky
+.idea/
+.idea/*
+/.idea
+!.idea/codeStyleSettings.xml
+!.idea/runConfigurations/
+# IDEs and editors
+# IDE - VSCode
+# Ignore .history for the xyz.local-history VSCode extension
+# Ignore npm/yarn debug log
+# Include when developing application packages.
+/integration/bazel/bazel-*
+*.launch
+/libpeerconnection.log
+*.log
+/log
+# Maven
+# misc
+# Misc
+/modules/rollup-test/dist/
+modules/.settings
+modules/.vscode
+month.txt
+.ng-dev.user*
+/node_modules
+/node_modules/
+.notes.md
+npm-debug.log
+.nvimrc
+# Only exists if Bazel was run
+/out-tsc
+package-lock.json
+/platforms
+/plugins
+.project
+pubspec.lock
+/reports
+# rollup-test output
+/.sass-cache
+*secret.js
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+# See `save_month_to_file` in `.circleci/config.yml`.
+.settings/
+# /src/environments/.env.*
+/src/translations/template.*
+*.sublime-workspace
+*.swo
+*.swp
+# System Files
+/target
+testem.log
+Thumbs.db
+/tmp
+/typings
+# User specific bazel settings
+# User specific ng-dev settings
+.vimrc
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+.vscode/launch.json
+!.vscode/settings.json
+.vscode/settings.json
+!.vscode/tasks.json
+.vscode/tasks.json
+/www
+xcuserdata/
+yarn-error.log
